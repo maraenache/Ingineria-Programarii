@@ -1,0 +1,4 @@
+In a hospital we have doctors, nurses and patients. 
+Create the necessary classes to be able to manage the following information:
+We have two doctors (Doctor1 (Heart) and Doctor2 (Lung)) and three patients (Patient1 (Heart), Patient2(Lung), Patient3(Heart, Lung)). 
+Create objects necessary to manage the above information and display all available details about doctors, patients and nurses.
